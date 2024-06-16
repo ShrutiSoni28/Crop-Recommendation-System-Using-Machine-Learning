@@ -35,7 +35,7 @@ Contributions to the project are welcome. If you have any suggestions, bug repor
 
 
 # Acknowledgements
-We would like to express our gratitude to the agricultural research community, farmers, and organizations for providing valuable insights, data, and domain knowledge that contributed to the development of this Crop Recommendation System.
+I would like to express my gratitude to the agricultural research community, farmers, and organizations for providing valuable insights, data, and domain knowledge that contributed to the development of this Crop Recommendation System.
 
 # Contact
-For any inquiries or questions, please contact us at shrutisonibaloda@gmail.com
+For any inquiries or questions, please contact me at shrutisonibaloda@gmail.com
